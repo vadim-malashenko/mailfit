@@ -1,1 +1,1 @@
-![](https://github.com/vadim-malashenko/starliner/blob/master/test.jpg)
+![](https://github.com/vadim-malashenko/mailfit/blob/master/test.jpg)
